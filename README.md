@@ -64,7 +64,5 @@ Welcome to **Dragon Repeller**, an exciting text-based adventure game crafted wi
 5. Defeat monsters to earn gold and experience points.
 6. Beware of the dragon! Can you emerge victorious and win the game?
 
-## GitHub Repository:
-Explore the code and contribute to the development of **Dragon Repeller** on GitHub: [Dragon Repeller Repository](link-to-your-github-repo)
 
 Get ready for an immersive adventure full of challenges and triumphs! May the dragon tremble before your might! 🐉✨
